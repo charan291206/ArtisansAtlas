@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Basic Website</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <!-- <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script> -->
+    <script src="mainfile.js"></script>
+    <script src="Artisans1.geojson" type="text/javascript"></script>
+    <script src="Buyers.geojson" type="text/javascript"></script>
+    <link rel="stylesheet" href="style.css" />
+    <script src="demo1.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <a href="https://spaceinf.com" target="_blank"
+        ><img src="space inf logo.png" id="logo" />
+      </a>
+    </header>
+
+    <div class="container">   
+      <section class="left">
+        <button class="button" id="button1">Artisans</button>
+        <button class="button" id="button2">Buyers</button>
+        <select name="distance" id="select">
+          <option value="0">Distance</option>
+          <option value="5">5 KM</option>
+          <option value="10">10 KM</option>
+          <!-- <input type="number" id="number" value="0"/> -->
+        </select>
+        <!-- <button class="button" id="button3" style="position: relative; bottom: 0;">Reset</button> -->
+      </section>
+
+      <section class="center">
+        <div id="map"></div>
+      </section>
+
+      <section class="right" id="right">
+        <h2 style="text-align: center">Details</h2>
+        <hr />
+        <p id="message1"></p>
+       
+        <p id="markerCount"></p>
+        <p id="markerData"></p>
+      </section>
+    </div>
+    <footer>
+      <div class="footer"></div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,1904 @@
+{
+  "type": "FeatureCollection",
+  "name": "Artisans",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.57689529,
+        "Lng": 80.79476952,
+        "Id": 1,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.79476952,
+          16.57689529,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.04906586,
+        "Lng": 80.10936945,
+        "Id": 2,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10936945,
+          16.04906586,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.12960614,
+        "Lng": 80.02108773,
+        "Id": 3,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.02108773,
+          16.12960614,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.2667249,
+        "Lng": 80.47952227,
+        "Id": 4,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.47952227,
+          16.2667249,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.81776388,
+        "Lng": 80.24898736,
+        "Id": 5,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24898736,
+          16.81776388,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.77491635,
+        "Lng": 80.30783495,
+        "Id": 6,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.30783495,
+          16.77491635,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.83988534,
+        "Lng": 80.65310098,
+        "Id": 7,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.65310098,
+          16.83988534,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.55939009,
+        "Lng": 80.92070387,
+        "Id": 8,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.92070387,
+          16.55939009,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.58676428,
+        "Lng": 80.10911213,
+        "Id": 9,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10911213,
+          16.58676428,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.5732485,
+        "Lng": 80.60150384,
+        "Id": 10,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.60150384,
+          16.5732485,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.31603414,
+        "Lng": 80.28174167,
+        "Id": 11,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.28174167,
+          16.31603414,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.29955936,
+        "Lng": 80.73754399,
+        "Id": 12,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.73754399,
+          16.29955936,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.14418147,
+        "Lng": 80.00580895,
+        "Id": 13,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.00580895,
+          16.14418147,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.74575618,
+        "Lng": 80.84848691,
+        "Id": 14,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.84848691,
+          16.74575618,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.42005492,
+        "Lng": 80.00791775,
+        "Id": 15,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.00791775,
+          16.42005492,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.73050434,
+        "Lng": 80.37994169,
+        "Id": 16,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.37994169,
+          16.73050434,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.58745102,
+        "Lng": 80.22842771,
+        "Id": 17,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22842771,
+          16.58745102,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.79647952,
+        "Lng": 80.09793183,
+        "Id": 18,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.09793183,
+          16.79647952,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.50783228,
+        "Lng": 80.42799415,
+        "Id": 19,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.42799415,
+          16.50783228,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.90171228,
+        "Lng": 80.34669874,
+        "Id": 20,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.34669874,
+          16.90171228,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.22037841,
+        "Lng": 80.02906491,
+        "Id": 21,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.02906491,
+          16.22037841,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.0726049,
+        "Lng": 80.77051289,
+        "Id": 22,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.77051289,
+          16.0726049,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.85869157,
+        "Lng": 80.07763822,
+        "Id": 23,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.07763822,
+          16.85869157,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.99461498,
+        "Lng": 80.89546663,
+        "Id": 24,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.89546663,
+          16.99461498,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.83645213,
+        "Lng": 80.85599441,
+        "Id": 25,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.85599441,
+          16.83645213,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.58843245,
+        "Lng": 80.12614447,
+        "Id": 26,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.12614447,
+          16.58843245,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.94900365,
+        "Lng": 80.48565428,
+        "Id": 27,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48565428,
+          16.94900365,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.14747404,
+        "Lng": 80.24104218,
+        "Id": 28,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24104218,
+          16.14747404,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.52716636,
+        "Lng": 80.47741167,
+        "Id": 29,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.47741167,
+          16.52716636,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.7726871,
+        "Lng": 80.55816004,
+        "Id": 30,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55816004,
+          16.7726871,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.32552826,
+        "Lng": 80.23346304,
+        "Id": 31,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23346304,
+          16.32552826,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.18175351,
+        "Lng": 80.54904672,
+        "Id": 32,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.54904672,
+          16.18175351,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.66448626,
+        "Lng": 80.87603635,
+        "Id": 33,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.87603635,
+          16.66448626,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.3246102,
+        "Lng": 80.12284063,
+        "Id": 34,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.12284063,
+          16.3246102,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.93790401,
+        "Lng": 80.48114042,
+        "Id": 35,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48114042,
+          16.93790401,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.22528266,
+        "Lng": 80.57184083,
+        "Id": 36,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.57184083,
+          16.22528266,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.41569864,
+        "Lng": 80.43589148,
+        "Id": 37,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.43589148,
+          16.41569864,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.11124568,
+        "Lng": 80.81252175,
+        "Id": 38,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81252175,
+          16.11124568,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.23408454,
+        "Lng": 80.67332624,
+        "Id": 39,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.67332624,
+          16.23408454,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.09078396,
+        "Lng": 80.76877686,
+        "Id": 40,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.76877686,
+          16.09078396,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.06982676,
+        "Lng": 80.72790012,
+        "Id": 41,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.72790012,
+          16.06982676,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.19035298,
+        "Lng": 80.00104577,
+        "Id": 42,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.00104577,
+          16.19035298,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.08068261,
+        "Lng": 80.33520432,
+        "Id": 43,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.33520432,
+          16.08068261,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.27737879,
+        "Lng": 80.51407577,
+        "Id": 44,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51407577,
+          16.27737879,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.57011214,
+        "Lng": 80.36666945,
+        "Id": 45,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.36666945,
+          16.57011214,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.58007859,
+        "Lng": 80.16233207,
+        "Id": 46,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16233207,
+          16.58007859,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.85515109,
+        "Lng": 80.93571672,
+        "Id": 47,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.93571672,
+          16.85515109,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.85452152,
+        "Lng": 80.51104101,
+        "Id": 48,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51104101,
+          16.85452152,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.42057518,
+        "Lng": 80.91313485,
+        "Id": 49,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.91313485,
+          16.42057518,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.30024059,
+        "Lng": 80.33369937,
+        "Id": 50,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.33369937,
+          16.30024059,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.82255132,
+        "Lng": 80.26799892,
+        "Id": 51,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26799892,
+          16.82255132,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.03154212,
+        "Lng": 80.22506512,
+        "Id": 52,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22506512,
+          16.03154212,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.30036275,
+        "Lng": 80.02915365,
+        "Id": 53,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.02915365,
+          16.30036275,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.37970204,
+        "Lng": 80.66569119,
+        "Id": 54,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.66569119,
+          16.37970204,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.52697917,
+        "Lng": 80.71475396,
+        "Id": 55,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.71475396,
+          16.52697917,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.90980024,
+        "Lng": 80.70950414,
+        "Id": 56,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.70950414,
+          16.90980024,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.90328571,
+        "Lng": 80.68356985,
+        "Id": 57,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.68356985,
+          16.90328571,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.97726572,
+        "Lng": 80.10511052,
+        "Id": 58,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10511052,
+          16.97726572,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.34730444,
+        "Lng": 80.72142472,
+        "Id": 59,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.72142472,
+          16.34730444,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.57680293,
+        "Lng": 80.24772467,
+        "Id": 60,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24772467,
+          16.57680293,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.56646061,
+        "Lng": 80.40349646,
+        "Id": 61,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.40349646,
+          16.56646061,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.27050778,
+        "Lng": 80.1033915,
+        "Id": 62,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1033915,
+          16.27050778,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.8564938,
+        "Lng": 80.6018794,
+        "Id": 63,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6018794,
+          16.8564938,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.59361249,
+        "Lng": 80.65168162,
+        "Id": 64,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.65168162,
+          16.59361249,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.17389288,
+        "Lng": 80.53129932,
+        "Id": 65,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.53129932,
+          16.17389288,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.80111865,
+        "Lng": 80.8218911,
+        "Id": 66,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8218911,
+          16.80111865,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.71984404,
+        "Lng": 80.94762778,
+        "Id": 67,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.94762778,
+          16.71984404,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.02304587,
+        "Lng": 80.48956366,
+        "Id": 68,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48956366,
+          16.02304587,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.40556036,
+        "Lng": 80.01769805,
+        "Id": 69,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.01769805,
+          16.40556036,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.11140542,
+        "Lng": 80.37484026,
+        "Id": 70,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.37484026,
+          16.11140542,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.49032424,
+        "Lng": 80.25263751,
+        "Id": 71,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25263751,
+          16.49032424,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.410076,
+        "Lng": 80.12529403,
+        "Id": 72,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.12529403,
+          16.410076,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.14318067,
+        "Lng": 80.81663423,
+        "Id": 73,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81663423,
+          16.14318067,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.19677596,
+        "Lng": 80.86584518,
+        "Id": 74,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.86584518,
+          16.19677596,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.90772953,
+        "Lng": 80.4598082,
+        "Id": 75,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4598082,
+          16.90772953,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.58254785,
+        "Lng": 80.86416574,
+        "Id": 76,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.86416574,
+          16.58254785,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.2414962,
+        "Lng": 80.44177721,
+        "Id": 77,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.44177721,
+          16.2414962,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.02713054,
+        "Lng": 80.71837736,
+        "Id": 78,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.71837736,
+          16.02713054,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.69484323,
+        "Lng": 80.97387797,
+        "Id": 79,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.97387797,
+          16.69484323,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.46630008,
+        "Lng": 80.96209838,
+        "Id": 80,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.96209838,
+          16.46630008,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.37590994,
+        "Lng": 80.89564651,
+        "Id": 81,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.89564651,
+          16.37590994,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.5412508,
+        "Lng": 80.15261087,
+        "Id": 82,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15261087,
+          16.5412508,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.79153579,
+        "Lng": 80.37183905,
+        "Id": 83,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.37183905,
+          16.79153579,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.1212753,
+        "Lng": 80.06676698,
+        "Id": 84,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.06676698,
+          16.1212753,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.07900626,
+        "Lng": 80.88844059,
+        "Id": 85,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.88844059,
+          16.07900626,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.46434477,
+        "Lng": 80.19877822,
+        "Id": 86,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.19877822,
+          16.46434477,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.01034041,
+        "Lng": 80.33233043,
+        "Id": 87,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.33233043,
+          16.01034041,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.84147354,
+        "Lng": 80.77542309,
+        "Id": 88,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.77542309,
+          16.84147354,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.72201861,
+        "Lng": 80.70958983,
+        "Id": 89,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.70958983,
+          16.72201861,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.13575567,
+        "Lng": 80.78265514,
+        "Id": 90,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.78265514,
+          16.13575567,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.17587608,
+        "Lng": 80.6387831,
+        "Id": 91,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6387831,
+          16.17587608,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.35039952,
+        "Lng": 80.90723478,
+        "Id": 92,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.90723478,
+          16.35039952,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.04993524,
+        "Lng": 80.61820605,
+        "Id": 93,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.61820605,
+          16.04993524,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.15588592,
+        "Lng": 80.53182942,
+        "Id": 94,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.53182942,
+          16.15588592,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.86466825,
+        "Lng": 80.01131291,
+        "Id": 95,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.01131291,
+          16.86466825,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.58381364,
+        "Lng": 80.95734031,
+        "Id": 96,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.95734031,
+          16.58381364,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.22852645,
+        "Lng": 80.48348678,
+        "Id": 97,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48348678,
+          16.22852645,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.95905409,
+        "Lng": 80.36763847,
+        "Id": 98,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.36763847,
+          16.95905409,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.89460505,
+        "Lng": 80.68520258,
+        "Id": 99,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.68520258,
+          16.89460505,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.94180294,
+        "Lng": 80.49433441,
+        "Id": 100,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.49433441,
+          16.94180294,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.92878455,
+        "Lng": 80.61469827,
+        "Id": 101,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.61469827,
+          16.92878455,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.39947442,
+        "Lng": 80.44690195,
+        "Id": 102,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.44690195,
+          16.39947442,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.27838244,
+        "Lng": 80.51816396,
+        "Id": 103,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51816396,
+          16.27838244,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.27238838,
+        "Lng": 80.82056103,
+        "Id": 104,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.82056103,
+          16.27238838,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.00215145,
+        "Lng": 80.77734942,
+        "Id": 105,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.77734942,
+          16.00215145,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.74764682,
+        "Lng": 80.81388938,
+        "Id": 106,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.81388938,
+          16.74764682,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.49139053,
+        "Lng": 80.23883173,
+        "Id": 107,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23883173,
+          16.49139053,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.19413367,
+        "Lng": 80.47978776,
+        "Id": 108,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.47978776,
+          16.19413367,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.0646016,
+        "Lng": 80.00526981,
+        "Id": 109,
+        "Gender": "Male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.00526981,
+          16.0646016,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 16.02800443,
+        "Lng": 80.75171657,
+        "Id": 110,
+        "Gender": "Female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.75171657,
+          16.02800443,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          80.56709305331128,
+          16.46336544068106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          80.63688896042521,
+          16.453178916752634
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
