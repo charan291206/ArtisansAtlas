@@ -193,6 +193,7 @@ navigator.geolocation.getCurrentPosition(function (position) {
                             <b style ="color : #b4c005"> Longitude : </b> ${clickedLng}<br>
                              <hr />
                           `;
+            layer.unbindpopup();
           } else {
             console.log("No matching marker found in geo.");
           }
