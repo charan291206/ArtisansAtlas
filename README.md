@@ -49,9 +49,3 @@ View the active deployment on GitHub Pages: [https://charan291206.github.io/Arti
 ## Data Overview
 - **Artisans1.geojson**: Contains 110 features with properties like Id, Gender, Lat, Lng. Points are located around coordinates like [80.79, 16.57] (near Vijayawada, India).
 - **Buyers.geojson**: Similar structure with 110 features, properties like Id, Gender, Lng, Lat.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the ISC License.
